@@ -8,7 +8,8 @@ Aiming at quantum computing/ cyber security
     2. Gaming (development and critique)
     3. Movies 
 ### About my coding style: 
-I write mostly in C and Java:
+I write mostly in C and JAVA but here are also some languages i have worked on:
+
     Python (matplotlib, numpy, math, Pandas, SciPy, RawSocketPy, Nmap, Scapy)
     SQL (good understanding, lacking in experience)
     CSS (currently learning, lacking in experience)
