@@ -9,7 +9,7 @@ Aiming at quantum computing/ cyber security
     3. Movies 
 ### About my coding style: 
 I write mostly in C and Java:
-*Python (matplotlib, numpy, math, Pandas, SciPy, RawSocketPy, Nmap, Scapy)
-*SQL (good understanding, lacking in experience)
-*CSS (currently learning, lacking in experience)
-*JAVAScript (currently learning, lacking in experience)
+    Python (matplotlib, numpy, math, Pandas, SciPy, RawSocketPy, Nmap, Scapy)
+    SQL (good understanding, lacking in experience)
+    CSS (currently learning, lacking in experience)
+    JAVAScript (currently learning, lacking in experience)
